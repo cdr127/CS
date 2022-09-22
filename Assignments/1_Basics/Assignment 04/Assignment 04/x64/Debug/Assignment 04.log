@@ -1,0 +1,5 @@
+﻿  Assignment 04.cpp
+E:\Programming\CS\Practice\assignments\Assignment 04\Assignment 04\Assignment 04.cpp(14,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programming\CS\Practice\assignments\Assignment 04\Assignment 04\Assignment 04.cpp(46,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programming\CS\Practice\assignments\Assignment 04\Assignment 04\Assignment 04.cpp(47,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Assignment 04.vcxproj -> E:\Programming\CS\Practice\assignments\Assignment 04\x64\Debug\Assignment 04.exe
